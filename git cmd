@@ -1,0 +1,7 @@
+--> go to project path in cmd
+--> git init
+--> git add .
+--> git commit -m "Initial commit for project"
+
+--> git remote add origin <repository URL>
+--> git push -u origin master
